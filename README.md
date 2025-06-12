@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jerson, an IT Professional
 
 <!--
 **jerson-143/jerson-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
